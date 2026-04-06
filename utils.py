@@ -8,6 +8,7 @@ CLASS_NAMES = ["Crack", "Pothole", "Manhole"]
 # ---------------- LOAD MODEL ----------------
 def load_model():
     model = YOLO("models/yolo_best.pt")
+    model = MobileNet("models/road_damage_model.h5")
     return model
 
 # ---------------- LOAD IMAGE ----------------
