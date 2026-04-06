@@ -141,3 +141,10 @@ streamlit run app.py
 ### 👩‍💻 Author
 
 **Abitha Jesuraj**
+
+### Screenshot
+
+<img width="1920" height="1020" alt="Road Damage Detection - Google Chrome 4_6_2026 7_52_01 PM" src="https://github.com/user-attachments/assets/a02a638d-aa1e-4f27-988d-64eb97426068" />
+
+<img width="1920" height="1020" alt="Road Damage Detection - Google Chrome 4_6_2026 7_52_14 PM" src="https://github.com/user-attachments/assets/0caa9040-a2d6-4cb7-a13b-b58a4f2db9d1" />
+
